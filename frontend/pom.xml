@@ -44,7 +44,7 @@
 					<!-- Latest LTS -->
 					<nodeVersion>v16.14.2</nodeVersion>
 					<npmVersion>8.5.0</npmVersion>
-					<workingDirectory>web-ui</workingDirectory>
+					<workingDirectory>web-ui</workingDirectory> <!-- directory containing package.json -->
 				</configuration>
 			</plugin>
 		</plugins>
